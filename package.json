@@ -1,0 +1,43 @@
+{
+  "name": "respect",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@hcorta/react-to-image": "^1.0.0",
+    "@hugocxl/react-to-image": "^0.0.9",
+    "@mui/icons-material": "^5.15.3",
+    "@mui/material": "^5.15.3",
+    "axios": "^1.6.5",
+    "bcrypto": "^5.5.2",
+    "dom-to-image": "^2.6.0",
+    "downloadjs": "^1.4.7",
+    "html2canvas": "^1.4.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.3",
+    "next": "14.0.4",
+    "next-auth": "^4.24.5",
+    "prettier": "^2.8.8",
+    "react": "^18",
+    "react-countup": "^6.4.2",
+    "react-dom": "^18",
+    "react-scroll": "^1.8.9",
+    "sass": "^1.70.0",
+    "swiper": "^8.4.6",
+    "typewriter-effect": "^2.20.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
